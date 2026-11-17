@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Arkose FunCaptcha Auto-Start
-// @namespace    https://github.com/chirag127/userscripts
+// @namespace    https://github.com/chirag127/funcaptcha-auto-bypass-userscript
 // @version      1.0.0
 // @description  Clicks through Arkose FunCaptcha's "Begin"/verify screens and fires the token change event. Image-rotation puzzles still need a human. ScriptCat switch, on by default, no solver API.
 // @author       chirag127
@@ -13,10 +13,10 @@
 // @grant        GM_log
 // @grant        CAT_registerMenuInput
 // @license      MIT
-// @homepageURL  https://github.com/chirag127/userscripts/tree/main/scripts/funcaptcha-auto-bypass
-// @supportURL   https://github.com/chirag127/userscripts/issues
-// @updateURL    https://raw.githubusercontent.com/chirag127/userscripts/main/scripts/funcaptcha-auto-bypass/funcaptcha-auto-bypass.user.js
-// @downloadURL  https://raw.githubusercontent.com/chirag127/userscripts/main/scripts/funcaptcha-auto-bypass/funcaptcha-auto-bypass.user.js
+// @homepageURL  https://github.com/chirag127/funcaptcha-auto-bypass-userscript
+// @supportURL   https://github.com/chirag127/funcaptcha-auto-bypass-userscript/issues
+// @updateURL    https://raw.githubusercontent.com/chirag127/funcaptcha-auto-bypass-userscript/main/funcaptcha-auto-bypass.user.js
+// @downloadURL  https://raw.githubusercontent.com/chirag127/funcaptcha-auto-bypass-userscript/main/funcaptcha-auto-bypass.user.js
 // ==/UserScript==
 
 (() => {

@@ -6,7 +6,7 @@ Clicks through Arkose FunCaptcha's start/verify screens and fires the token chan
 
 ## Install
 
-[Click here to install in ScriptCat](https://raw.githubusercontent.com/chirag127/userscripts/main/scripts/funcaptcha-auto-bypass/funcaptcha-auto-bypass.user.js)
+[Click here to install in ScriptCat](https://raw.githubusercontent.com/chirag127/funcaptcha-auto-bypass-userscript/main/funcaptcha-auto-bypass.user.js)
 
 ## How it works
 
